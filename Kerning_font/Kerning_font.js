@@ -11,7 +11,7 @@ mic.start();
 cnv.mousePressed(userStartAudio);
 fill(255);
 textSize(80);
-textFont('Betelgeuse', 80);
+textFont('Betelgeuse');
 textAlign(CENTER, CENTER);
 }
 
@@ -31,7 +31,7 @@ push();
 translate(width/2,height/2);
 textSize(map(volume,0,1,80,1000));
 //textSize(100);
-textFont('Betelgeuse', 80);
+textFont('Betelgeuse');
 text(myText, 0, 0);
 pop();
 }
