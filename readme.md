@@ -2,4 +2,4 @@
 ## Welcome to the typogrpahy world
 [4April_A2theKclass](https://jacquelinenathaniel.github.io/typeface_sampler/sketch_3_fonts_loaded/index.html)
 [Betelgeuse_sampler](https://jacquelinenathaniel.github.io/jacq-A_to_the_K/Betelgeuse_sampler/index.html)
-[sample1](https://jacquelinenathaniel.github.io/jacq-A_to_the_K/
+[sample1](https://jacquelinenathaniel.github.io/jacq-A_to_the_K/Sampler1/index.html)
